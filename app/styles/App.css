@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .App {
+    text-align: none;
+  }
+  
+  /* Content container */
+  .Content {
+    margin-top: 20px;
+  }
+  
+  /* Footer styling */
+  .Footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
